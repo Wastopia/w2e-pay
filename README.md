@@ -1,5 +1,3 @@
-![](./media/header.png)
-
 # Waste2Earn Pay
 
 Waste2Earn Pay is a dapp to demonstrate a real world use case under ICRC2 on the Internet Computer. It is a simple Payment app that allows users to accept $wPl (waste plastic), $wPr (waste Paper), $wM (waste metal), $wG (waste glass), $wOx (organic waste), $eW (electronic waste) and $W2E (waste2earn for governance token)
